@@ -1,2 +1,2 @@
-# -James-Hackett
+# James-Hackett
 About me
