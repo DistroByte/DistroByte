@@ -5,7 +5,8 @@ My name is James, and you've found my GitHub profile!
 
 ## Popular repos
 
-- [ComfyBot](https://www.github.com/DistroByte/ComfyBot)
+- [ComfyBot](https://www.github.com/DistroByte/ComfyBot) - a multi-purpose Discord bot with a levelling system, moderation tools and more!
+- [Scripts](https://www.github.com/DistroByte/Useful-Scripts) - a collection of useful scripts, mostly macros
 
 ### Stats
 
