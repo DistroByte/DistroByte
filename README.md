@@ -11,5 +11,3 @@ My name is James, and you've found my GitHub profile! I am a first year student 
 ### Stats
 
 ![DistroBytes's github stats](https://github-readme-stats.vercel.app/api?username=DistroByte&count_private=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DistroByte&layout=compact&theme=dark)
