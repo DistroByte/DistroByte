@@ -1,4 +1,4 @@
-# DistroByte
+# James Hackett
 Hey there!
 
 My name is James, and you've found my GitHub profile! I am a first year student in Dublin City University studying Computer Applications. I have an interest in automation and projects I tell myself are useful!
