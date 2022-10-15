@@ -1,7 +1,7 @@
 # James Hackett
 Hey there!
 
-My name is James, and you've found my GitHub profile! I am a second year student in Dublin City University studying Computer Applications and Software Applications.
+My name is James, and you've found my GitHub profile! I am a third year student in Dublin City University studying Computer Applications and Software Applications.
 
 I'm a Systems Administrator for Redbrick - DCU's Computing and Networking Society.
 
