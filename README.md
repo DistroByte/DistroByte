@@ -16,4 +16,3 @@ I run a homelab with documentation [here](https://docs.james-hackett.ie).
 
 ![DistroBytes's github stats](https://github-readme-stats.vercel.app/api?username=DistroByte&count_private=true&show_icons=true&theme=dark)
 
-![Profile Views](https://profile-counter.glitch.me/%7BDistroByte%7D/count.svg)
