@@ -1,9 +1,10 @@
 # James Hackett
 Hey there!
 
-My name is James, and you've found my GitHub profile! I am a fourth year student in Dublin City University studying Computer Applications and Software Applications.
+My name is James, and you've found my GitHub profile! I'm a Devops Engineer at NS1, a DNS company owned by IBM. 
 
-I'm the Chairperson and previous Systems Administrator for Redbrick - DCU's Computing and Networking Society.
+
+Formerly an SRE at @Demonware and a Systems Administrator for @Redbrick.
 
 I run a homelab with documentation [here](https://docs.james-hackett.ie).
 
